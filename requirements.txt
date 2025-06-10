@@ -1,0 +1,4 @@
+aqt[qt6]
+mlconjug3
+PyDictionary
+pattern
